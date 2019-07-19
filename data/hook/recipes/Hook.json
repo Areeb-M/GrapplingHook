@@ -17,6 +17,6 @@
             }
         },
         "result": {
-            "item": "minecraft:tripwire_hook{display:{Name:""Grappling Hook\""}}",
+            "item": "minecraft:tripwire_hook{display:{Name:"\"Grappling Hook\""}}",
             "count": 1
         }
