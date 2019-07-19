@@ -17,7 +17,7 @@
             }
         },
         "result": {
-            "item": "minecraft:tripwire_hook{Enchantments:[{id:"minecraft:riptide",lvl:1}],display:{Name:"{\"text\":\"Grappling Hook\"}"}}",
+            "item": "minecraft:tripwire_hook{Enchantments:[{id:"minecraft:riptide",lvl:1}],display:{Name:"\"Grappling Hook\"}"}}",
             "count": 1
         }
 }
